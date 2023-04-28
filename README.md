@@ -1,4 +1,4 @@
-# About-Me# 
+
 💫 About Me:
 Aspiring software developer with a recently completed BCA degree and a passion for learning new technologies. Skilled in Django, Python, MySQL, PHP, VB.NET, ASP.NET, C, C++, Oracle, and Java, with a focus on web development. Strong problem-solving abilities and a quick learner, able to adapt to new challenges and work in a team environment. 
 
@@ -16,4 +16,4 @@ Aspiring software developer with a recently completed BCA degree and a passion f
 ---
 [![](https://visitcount.itsvg.in/api?id=Mr-JK21&icon=7&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
