@@ -1,6 +1,6 @@
 
 💫 About Me:
-Aspiring software developer with a recently completed BCA degree and a passion for learning new technologies. Skilled in Django, Python, MySQL, PHP, VB.NET, ASP.NET, C, C++, Oracle, and Java, with a focus on web development. Strong problem-solving abilities and a quick learner, able to adapt to new challenges and work in a team environment. 
+Aspiring backend developer with a good knowledge of Python, MySQL, HTML, and CSS along with basic knowledge of Django. I have a problem-solving mindset focused on continuous learning, and I am eager to enhance my skills and experience. As a good learner, I strive to adapt to new challenges and enjoy working in collaborative team environments, leveraging my skills to contribute effectively to the success of the organization while furthering my knowledge. 
 
 
 ## 🌐 Socials:
